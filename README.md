@@ -14,10 +14,7 @@ This project can be used as a template for future projects.
 
 ## Getting Started
 
-To get a local copy and make linters working follow these steps:
-
-### Prerequisites
-[NodeJS LTS](https://nodejs.org/en/download/)
+If you want to make linters working locally, make sure to use the [NodeJS LTS](https://nodejs.org/en/download/)
 
 ### Setup
 
@@ -49,7 +46,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- It is far easier to design a class to be thread-safe than to retrofit it for thread safety later.
+To Microverse and their support team.
 
 ## 📝 License
 
