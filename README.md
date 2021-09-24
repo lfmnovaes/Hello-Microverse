@@ -1,16 +1,13 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flfmnovaes%2FHello-Microverse&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Hello Microverse
 
-> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps.
-
-This project can be used as a template for future projects.
+> The goal of this "Hello world" project is to learn all the tools (Branchs, Pull request, GitHub Workflows, Linters) to be able to use that on future projects.
 
 ## Built With
 
 - HTML
 - CSS
-- Linters workflow
 
 ## Getting Started
 
